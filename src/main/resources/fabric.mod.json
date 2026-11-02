@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "utilidades",
+  "version": "0.1-fabric",
+  "name": "utilidades (Fabric port)",
+  "description": "Recetas extra: montura, manzana de Notch y armaduras de caballo.",
+  "authors": ["José María (original, MCreator)", "Nebula Systems (port a Fabric)"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "depends": { "fabricloader": ">=0.14", "fabric-api": "*", "minecraft": "1.20.1" }
+}
